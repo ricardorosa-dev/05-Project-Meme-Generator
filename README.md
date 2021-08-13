@@ -1,6 +1,6 @@
 <h1 align="center">Lista de Tarefas</h1>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ricardorosa-dev/05-Project-Meme-Generator?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/ricardorosa-dev/05-project-meme-generator?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/ricardorosa-dev/05-Project-Meme-Generator?style=for-the-badge)
 
 <p>
